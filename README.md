@@ -21,6 +21,7 @@ ws-commonqt
 
 * Qt 4.8.6 MinGW
     * Availability: [Qt Project Downloads](http://qt-project.org/downloads#qt-lib)
+    * MinGW GCC 4.8.2, i686 architecture, POSIX threads, _Dwarf_ Exception Handling -- see _[MinGW Toolchain Matrix (Unofficial)](http://dsp42.blogspot.com/2014/06/a-mingw-w64-toolchain-matrix-unofficial.html)_
 
 ### CMake (Cygwin)
 
