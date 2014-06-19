@@ -4,3 +4,6 @@
 [submodule "libsrc/smoke/smokeqt"]
 	path = libsrc/smoke/smokeqt
 	url = git://anongit.kde.org/smokeqt.git
+[submodule "libsrc/commonqt"]
+	path = libsrc/commonqt
+	url = git@github.com:spchamp/commonqt.git
