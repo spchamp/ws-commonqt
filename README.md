@@ -11,5 +11,6 @@ ws-commonqt
 
 ## Submodules
 
+* `libsrc/commonqt` : [CommonQt](http://common-lisp.net/project/commonqt/)
 * `libsrc/smoke/smokegen` : [Smokegen](https://projects.kde.org/projects/kde/kdebindings/smoke/smokegen)
 * `libsrc/smoke/smokegen` : [SmokeQT](https://projects.kde.org/projects/kde/kdebindings/smoke/smokeqt)
