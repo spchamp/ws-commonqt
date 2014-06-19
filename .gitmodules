@@ -1,0 +1,6 @@
+[submodule "libsrc/smoke/smokegen"]
+	path = libsrc/smoke/smokegen
+	url = git://anongit.kde.org/smokegen.git
+[submodule "libsrc/smoke/smokeqt"]
+	path = libsrc/smoke/smokeqt
+	url = git://anongit.kde.org/smokeqt.git
